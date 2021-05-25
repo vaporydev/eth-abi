@@ -1,4 +1,4 @@
-# Ethereum Contract Interface (ABI) Utility
+# Vapory Contract Interface (ABI) Utility
 
 [![Join the chat at https://gitter.im/ethereum/eth-abi](https://badges.gitter.im/ethereum/eth-abi.svg)](https://gitter.im/ethereum/eth-abi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://circleci.com/gh/ethereum/eth-abi.svg?style=shield)](https://circleci.com/gh/ethereum/eth-abi)
